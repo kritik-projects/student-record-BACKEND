@@ -93,7 +93,7 @@ Test the API with **Postman**, **Insomnia**, or any API client.
 	`DELETE /students/:id`
 ## Author
 
-**K Rajesh** – [GitHub Profile](https://github.com/pyrajesh1601)
+**Kritik** – [GitHub Profile]([https://github.com/pyrajesh1601](https://github.com/kritik-projects))
 
 
 
